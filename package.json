@@ -1,0 +1,20 @@
+{
+  "name": "af_lab4-",
+  "version": "1.0.0",
+  "description": "AF lab4",
+  "homepage": "https://github.com/alexonline1123-star/AF_lab4-#readme",
+  "bugs": {
+    "url": "https://github.com/alexonline1123-star/AF_lab4-/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexonline1123-star/AF_lab4-.git"
+  },
+  "license": "ISC",
+  "author": "sharujan",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
