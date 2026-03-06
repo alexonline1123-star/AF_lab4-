@@ -1,4 +1,6 @@
 console.log("App is running...");
+
+console.log("Dilush had added a message...");
 //
 const fs = require('fs');
 fs.readFile('file.txt', 'utf8', function (err, data) {
